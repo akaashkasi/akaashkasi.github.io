@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
- 
-<link rel="shortcut icon" href="http://akaashkasi.com/favicon.ico" />
-
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-<h1>Welcome!</h1>
+<h1>WELCOME!</h1>
 <p>My name is Akaash.</p>
 
 </body>
