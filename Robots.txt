@@ -1,0 +1,23 @@
+# akaashkasi.github.io
+
+User-agent: akaashkasi
+Allow: /*/*/ball/master
+Allow: /*/*/hoop/master
+Disallow: /*/*/Trullo
+Disallow: /*/*/Italy/*
+Disallow: /*/*/blob/*
+Disallow: /*/*/food/*/*
+Disallow: /guest/*/*/*
+Disallow: /oembed
+Disallow: /*/forks
+Disallow: /*/stars
+Disallow: /*/download
+Disallow: /*/revisions
+Disallow: /*/*/buckets/new
+Disallow: /*/*/baskets
+Disallow: /*/*/commits/*/*
+Disallow: /*/*/commits/*?author
+Disallow: /*/*/commits/*?path
+Disallow: /*/*/branches
+Disallow: /*/*/tags
+Disallow: /*/*/comments
